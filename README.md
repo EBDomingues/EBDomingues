@@ -1,5 +1,5 @@
 ### 👋 Hi,  my name is Emilia Bruna, welcome to my profile Git 
-## I am a st0udent of Systems Analysis and Development at UNiCV, and I am also taking a course at Cubos Academy, where I am studying Software Development - Full Stack,I have been in career transition for 1 year and I am looking forward to applying my skills and passion for technology,
+## I am a student of Systems Analysis and Development at UNiCV, and I am also taking a course at Cubos Academy, where I am studying Software Development - Full Stack,I have been in career transition for 1 year and I am looking forward to applying my skills and passion for technology,
 
   </p>
 
